@@ -10,7 +10,7 @@
 ```
            ┌──────────────────────────────────────────┐
            │        SẢN PHẨM GIA TĂNG (Lớp 3)        │
-           │       │
+           │       
            │   ┌──────────────────────────────────┐   │
            │   │   SẢN PHẨM THỰC TẾ (Lớp 2)      │   │
            │   │  App, Gợi ý thông minh, Chat,     │   │
@@ -126,35 +126,39 @@
 
 | # | Tính năng | Bài toán | Cách giải quyết | Giá trị |
 |---|----------|----------|-----------------|---------|
-| 7 | **Điểm uy tín 2 chiều (Trust Score)** | SV không biết DN có đáng tin không; DN không biết SV có chăm chỉ không | Sau mỗi lần làm việc, cả 2 phía đánh giá lẫn nhau (1–5 ⭐ + nhận xét). Điểm tích lũy → Hiển thị trên hồ sơ | **Giống hệ thống đánh giá sao của Grab/Shopee:** Người có điểm cao được ưu tiên; Người có điểm thấp bị hạ xếp hạng |
+| 7 | **Điểm uy tín 2 chiều (Trust Score)** | SV không biết bài đăng tuyển có thật không, có đúng như mô tả không; DN không biết SV có chăm chỉ không | Sau mỗi lần làm việc: **DN đánh giá SV** (đúng giờ, thái độ, năng lực); **SV xác thực bài đăng của DN** (thông tin có chính xác không, có đúng mô tả không, có dấu hiệu lừa đảo không). Điểm tích lũy → Hiển thị trên hồ sơ | **Giống hệ thống đánh giá sao của Grab/Shopee:** DN có điểm xác thực cao → Được SV tin tưởng; DN có nhiều báo cáo sai lệch → Bị cảnh báo/gỡ bỏ |
 | 8 | **Huy hiệu xác minh doanh nghiệp** | SV sợ bị lừa đảo (yêu cầu nộp "phí đặt cọc", làm không trả lương) | DN cung cấp giấy phép kinh doanh → LaborLink xác minh → Gắn huy hiệu ✅ "Đã xác minh" | 91% SV ưu tiên ứng tuyển DN có huy hiệu → **Tăng tỷ lệ tuyển dụng thành công cho DN đã xác minh** |
 | 9 | **Trung tâm an toàn (Safety Center)** | Facebook Groups không có cơ chế báo cáo → DN lừa đảo vẫn hoạt động bình thường | Nút "Báo cáo" trên mọi tin tuyển dụng; Danh sách đen DN vi phạm; Tự động phát hiện tin đăng bất thường | Tạo **môi trường tuyển dụng minh bạch, an toàn** – giống như vai trò của ngân hàng trung gian trong giao dịch |
 
 ##### Minh họa Điểm uy tín 2 chiều:
 
 ```
-   DOANH NGHIỆP đánh giá SINH VIÊN           SINH VIÊN đánh giá DOANH NGHIỆP
-   ┌──────────────────────────────┐           ┌──────────────────────────────┐
-   │ ⭐ Đúng giờ          (1–5)   │           │ ⭐ Môi trường làm việc (1–5) │
-   │ ⭐ Thái độ làm việc   (1–5)   │           │ ⭐ Trả lương đúng hạn  (1–5) │
-   │ ⭐ Năng lực hoàn thành(1–5)   │           │ ⭐ Đúng mô tả công việc(1–5) │
-   │ 📝 Nhận xét                   │           │ ⭐ Thái độ quản lý     (1–5) │
-   └──────────────┬───────────────┘           │ 📝 Nhận xét                  │
-                  │                            └──────────────┬───────────────┘
+   DOANH NGHIỆP đánh giá SINH VIÊN           SINH VIÊN xác thực BÀI ĐĂNG của DN
+   ┌──────────────────────────────┐           ┌───────────────────────────────────┐
+   │ ⭐ Đúng giờ          (1–5)   │           │ ✅ Thông tin bài đăng chính xác?  │
+   │ ⭐ Thái độ làm việc   (1–5)   │           │    (Đúng/Không đúng)              │
+   │ ⭐ Năng lực hoàn thành(1–5)   │           │ ✅ Công việc thực tế đúng mô tả?  │
+   │ 📝 Nhận xét                   │           │    (Đúng/Không đúng)              │
+   └──────────────┬───────────────┘           │ ✅ Đây KHÔNG phải lừa đảo?        │
+                  │                            │    (Xác nhận/Báo cáo)             │
+                  │                            │ ⭐ Mức độ tin cậy chung    (1–5)  │
+                  │                            │ 📝 Nhận xét chi tiết              │
+                  │                            └──────────────┬────────────────────┘
                   ▼                                           ▼
    ┌────────────────────────────────────────────────────────────┐
    │               ĐIỂM UY TÍN TRUNG BÌNH                      │
    │                                                            │
    │   SV: ⭐ 4.7/5 (15 đánh giá) → "Ứng viên tuyệt vời"      │
-   │   DN: ⭐ 4.5/5 (28 đánh giá) → "Doanh nghiệp uy tín"     │
+   │   DN: ✅ 95% bài đăng được xác thực chính xác              │
+   │       → Badge: "Nhà tuyển dụng đáng tin cậy"              │
    │                                                            │
    │   → SV điểm cao → Được gợi ý ưu tiên cho DN               │
-   │   → DN điểm cao → Hiển thị nổi bật, thu hút nhiều SV hơn  │
-   │   → Điểm < 2.0 → Cảnh báo hoặc tạm khóa tài khoản       │
+   │   → DN xác thực cao → Hiển thị nổi bật, SV tin tưởng hơn  │
+   │   → DN có >3 báo cáo lừa đảo → Tạm khóa & điều tra       │
    └────────────────────────────────────────────────────────────┘
 ```
 
-> **💡 Ý nghĩa kinh doanh:** Hệ thống điểm uy tín hoạt động như một **cơ chế thị trường tự điều chỉnh** – giống cách mà hệ thống đánh giá sao trên Grab, Shopee hay Airbnb giúp loại bỏ tài xế/shop kém chất lượng mà không cần sự can thiệp trực tiếp từ nền tảng.
+> **Ý nghĩa kinh doanh:** Phía SV không chỉ đánh giá trải nghiệm mà đóng vai trò **"người xác thực cộng đồng"** – xác nhận bài đăng tuyển dụng là thật, chính xác, không lừa đảo. Cơ chế này hoạt động như **hệ thống review sản phẩm trên Shopee** – người mua xác nhận "hàng đúng mô tả" giúp người mua tiếp theo yên tâm. Tương tự, khi SV xác thực bài đăng → SV tiếp theo nhìn thấy "95% xác nhận chính xác" → Tin tưởng ứng tuyển → **Tăng tỷ lệ chuyển đổi cho DN.**
 
 ---
 
