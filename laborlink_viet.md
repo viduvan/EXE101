@@ -171,7 +171,7 @@
 
 ---
 
-### 🔒 Chất lượng & Cam kết bảo mật
+### Chất lượng & Cam kết bảo mật
 
 | Cam kết | Nội dung |
 |---------|----------|
@@ -240,11 +240,11 @@
 ```
   CHI PHÍ CHO DOANH NGHIỆP (VNĐ/tin hoặc /tháng)
   │
-  │  15.000.000 ┤ ●── VietnamWorks (gói cao cấp)
+  │  10.000.000 ┤ ●── VietnamWorks (gói cao cấp)
   │             │         ↑ Dành cho tập đoàn, đa quốc gia
-  │  10.000.000 ┤
+  │ 
   │             │
-  │   8.000.000 ┤ ●── TopCV (gói nâng cao)
+  │   7.000.000 ┤ ●── TopCV (gói nâng cao)
   │             │         ↑ Dành cho DN lớn, phòng HR chuyên nghiệp
   │   5.000.000 ┤ ●── Glints (gói cơ bản)
   │             │         ↑ Startup, DN quy mô trung bình
@@ -270,8 +270,8 @@
 |----------|-------------|----------------|--------|------------------|
 | **Facebook Groups** | Miễn phí | 0đ | 0đ | Tất cả – nhưng không xác minh, nhiều lừa đảo |
 | **JobsGO** | Trả theo tin | 500.000–3.000.000đ/tin | Miễn phí | SMEs đa ngành |
-| **Glints** | Trả theo tin | 3.000.000–5.000.000đ/tin | Miễn phí | Startup, DN trung bình |
-| **TopCV** | Trả theo tin + Gói | 1.500.000–8.000.000đ/tin | Miễn phí | DN lớn, fresh graduate |
+| **Glints** | Trả theo tin | 1.000.000–5.000.000đ/tin | Miễn phí | Startup, DN trung bình |
+| **TopCV** | Trả theo tin + Gói | 1.500.000–5.000.000đ/tin | Miễn phí | DN lớn, fresh graduate |
 | **VietnamWorks** | Trả theo tin + Gói | 5.000.000–15.000.000đ/tin | Miễn phí | Tập đoàn lớn, MNC |
 
 ### Phân tích khoảng trống giá (Price Gap Analysis)
@@ -343,7 +343,7 @@
 
 #### Phía Doanh nghiệp / Nhà tuyển dụng: 4 GÓI DỊCH VỤ
 
-| Tính năng | 🆓 **Miễn phí** | ⭐ **Cơ bản** | 💎 **Nâng cao** | 🏢 **Doanh nghiệp** |
+| Tính năng |  **Miễn phí** |  **Cơ bản** |  **Nâng cao** |  **Doanh nghiệp** |
 |----------|:-----------:|:----------:|:-------------:|:----------------:|
 | **Giá/tháng** | **0đ** | **99.000đ** | **299.000đ** | **Liên hệ** |
 | | | | | |
