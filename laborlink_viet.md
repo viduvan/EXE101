@@ -292,8 +292,8 @@
 
 | Phân khúc giá | Ai đang phục vụ? | Khoảng trống | Cơ hội cho LaborLink |
 |---------------|-----------------|-------------|---------------------|
-| **0đ** (Miễn phí) | Facebook, Zalo | ❌ Không xác minh, phân tán, lừa đảo | ✅ LaborLink Free: **Miễn phí nhưng CÓ xác minh, CÓ gợi ý thông minh** |
-| **50K–300K/tháng** | **KHÔNG CÓ AI** | **KHOẢNG TRỐNG LỚN** | ✅ LaborLink Basic (99K) + Premium (299K) |
+| **0đ** (Miễn phí) | Facebook, Zalo | Không xác minh, phân tán, lừa đảo | LaborLink Free: **Miễn phí nhưng CÓ xác minh, CÓ gợi ý thông minh** |
+| **50K–300K/tháng** | **KHÔNG CÓ AI** | **KHOẢNG TRỐNG LỚN** |  LaborLink Basic (99K) + Premium (299K) |
 | **500K–3M/tin** | JobsGO | Không focus SV | Cạnh tranh gián tiếp |
 | **3M–15M/tin** | Glints, TopCV, VietnamWorks | Dành cho DN lớn | Không cạnh tranh trực tiếp |
 
