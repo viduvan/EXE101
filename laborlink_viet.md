@@ -10,7 +10,7 @@
 ```
            ┌──────────────────────────────────────────┐
            │        SẢN PHẨM GIA TĂNG (Lớp 3)        │
-           │       
+           │       │
            │   ┌──────────────────────────────────┐   │
            │   │   SẢN PHẨM THỰC TẾ (Lớp 2)      │   │
            │   │  App, Gợi ý thông minh, Chat,     │   │
@@ -49,19 +49,33 @@
 
 | Chỉ số | Số liệu | Nguồn |
 |--------|---------|-------|
-| Tỷ lệ sinh viên VN có nhu cầu làm thêm | **70–85%** | Tạp chí Công Thương; Bộ GD&ĐT |
-| SV cảm thấy áp lực khi phải tự tìm việc trên nhiều kênh | **60%** | Khảo sát dự kiến |
-| SV cho biết "an toàn" là yếu tố quan trọng nhất khi tìm việc | **91%** | Khảo sát dự kiến |
-| SV từng phải từ chối việc vì lịch không hợp | **73%** | Khảo sát dự kiến |
+| Tỷ lệ SV đại học VN từng đi làm thêm | **85,2%** | Tạp chí Công Thương – NC Thanh niên, ĐHQG HN (2023) *(1)* |
+| Tỷ lệ SV đang/đã làm thêm (khảo sát ĐH NTT, 303 SV) | **68%** | Tạp chí Công Thương – ThS. Phạm Thị Thùy Trang (2021) *(2)* |
+| SV từng làm thêm; tìm việc chủ yếu qua Facebook – kênh không xác minh | **57%** đã làm; **38%** tìm qua Facebook | Q&Me Vietnam – "Part-time job among Vietnamese youth" *(3)* |
+| An toàn & lừa đảo là mối lo hàng đầu khi SV tìm việc online | Hàng loạt vụ lừa đảo SV qua MXH | Báo Thanh Niên (08/2024) *(4)*; Báo QĐND *(5)* |
 
 **Phía doanh nghiệp:**
 
 | Chỉ số | Số liệu | Nguồn |
 |--------|---------|-------|
-| Tần suất tuyển part-time trung bình | **2–6 lần/năm** | Nghiên cứu sơ cấp |
-| Thời gian tuyển trung bình | **5–14 ngày/lần** | Nghiên cứu sơ cấp |
-| Nhân viên part-time nghỉ sau 1–2 tuần vì không phù hợp | **30–40%** | Nghiên cứu sơ cấp |
-| DN mong muốn được gợi ý ứng viên tự động | **78%** | Khảo sát dự kiến |
+| Tỷ lệ nghỉ việc tự nguyện tại DN Việt Nam | **19,4%** (2023) → giảm còn **9,6%** (H1/2024) | Talentnet–Mercer Total Remuneration Survey 2024 *(6)* |
+| Ngành bán lẻ, F&B (dùng nhiều part-time): turnover thực tế | Thường xuyên **>10–20%** (ngưỡng an toàn chỉ 4-6%) | HRC Academy *(7)* |
+| NLĐ cho rằng thu nhập không đủ trang trải → nhảy việc | **74%** | Anphabe – Vietnam Best Places to Work 2024 *(8)* |
+
+---
+
+> **📚 Tra cứu nguồn:**
+>
+> | # | Nguồn | Cách tìm |
+> |---|-------|----------|
+> | *(1)* | Tạp chí Công Thương – *"Ảnh hưởng của việc làm thêm đến kết quả học tập của sinh viên"* | Google: `"85,2%" "làm thêm" site:tapchicongthuong.vn` |
+> | *(2)* | Tạp chí Công Thương – *"Nâng cao nhận thức năng lực nghề nghiệp của SV tại ĐH Nguyễn Tất Thành"* | Google: `"Nguyễn Tất Thành" "năng lực nghề nghiệp" site:tapchicongthuong.vn` |
+> | *(3)* | Q&Me Vietnam Market Research – *"Part-time job among Vietnamese youth"* (500 người, 18-22 tuổi) | Google: `"part-time job" site:qandme.net` |
+> | *(4)* | Báo Thanh Niên – *"Sinh viên cần trọng trước chiêu trò lừa đảo việc làm"* (19/08/2024) | https://thanhnien.vn/sinh-vien-can-trong-truoc-chieu-tro-lua-dao-viec-lam-185240819110706928.htm |
+> | *(5)* | Báo Quân đội Nhân dân – Cảnh báo lừa đảo tuyển dụng SV | Google: `cảnh báo lừa đảo tuyển dụng sinh viên site:qdnd.vn` |
+> | *(6)* | Talentnet–Mercer Total Remuneration Survey 2024 (600+ DN, 544.000 NLĐ) | Google: `"Talentnet" "Mercer" "19,4" "9,6" site:dantri.com.vn` |
+> | *(7)* | HRC Academy – *"Tỷ lệ nghỉ việc – Bao nhiêu là bình thường?"* | Google: `"tỷ lệ nghỉ việc" site:hrcacademy.vn` |
+> | *(8)* | Anphabe – Vietnam Best Places to Work 2024 | Google: `"74%" "thu nhập" site:anphabe.com` hoặc vào https://anphabe.com → Insights |
 
 ### Góc nhìn marketing: Khách hàng KHÔNG mua sản phẩm – Họ mua GIẢI PHÁP
 
@@ -171,7 +185,7 @@
 
 ---
 
-### Chất lượng & Cam kết bảo mật
+### 🔒 Chất lượng & Cam kết bảo mật
 
 | Cam kết | Nội dung |
 |---------|----------|
@@ -240,11 +254,11 @@
 ```
   CHI PHÍ CHO DOANH NGHIỆP (VNĐ/tin hoặc /tháng)
   │
-  │  10.000.000 ┤ ●── VietnamWorks (gói cao cấp)
+  │  15.000.000 ┤ ●── VietnamWorks (gói cao cấp)
   │             │         ↑ Dành cho tập đoàn, đa quốc gia
-  │ 
+  │  10.000.000 ┤
   │             │
-  │   7.000.000 ┤ ●── TopCV (gói nâng cao)
+  │   8.000.000 ┤ ●── TopCV (gói nâng cao)
   │             │         ↑ Dành cho DN lớn, phòng HR chuyên nghiệp
   │   5.000.000 ┤ ●── Glints (gói cơ bản)
   │             │         ↑ Startup, DN quy mô trung bình
@@ -270,8 +284,8 @@
 |----------|-------------|----------------|--------|------------------|
 | **Facebook Groups** | Miễn phí | 0đ | 0đ | Tất cả – nhưng không xác minh, nhiều lừa đảo |
 | **JobsGO** | Trả theo tin | 500.000–3.000.000đ/tin | Miễn phí | SMEs đa ngành |
-| **Glints** | Trả theo tin | 1.000.000–5.000.000đ/tin | Miễn phí | Startup, DN trung bình |
-| **TopCV** | Trả theo tin + Gói | 1.500.000–5.000.000đ/tin | Miễn phí | DN lớn, fresh graduate |
+| **Glints** | Trả theo tin | 3.000.000–5.000.000đ/tin | Miễn phí | Startup, DN trung bình |
+| **TopCV** | Trả theo tin + Gói | 1.500.000–8.000.000đ/tin | Miễn phí | DN lớn, fresh graduate |
 | **VietnamWorks** | Trả theo tin + Gói | 5.000.000–15.000.000đ/tin | Miễn phí | Tập đoàn lớn, MNC |
 
 ### Phân tích khoảng trống giá (Price Gap Analysis)
@@ -343,7 +357,7 @@
 
 #### Phía Doanh nghiệp / Nhà tuyển dụng: 4 GÓI DỊCH VỤ
 
-| Tính năng |  **Miễn phí** |  **Cơ bản** |  **Nâng cao** |  **Doanh nghiệp** |
+| Tính năng | 🆓 **Miễn phí** | ⭐ **Cơ bản** | 💎 **Nâng cao** | 🏢 **Doanh nghiệp** |
 |----------|:-----------:|:----------:|:-------------:|:----------------:|
 | **Giá/tháng** | **0đ** | **99.000đ** | **299.000đ** | **Liên hệ** |
 | | | | | |
