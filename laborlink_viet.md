@@ -453,23 +453,116 @@
 
 > **Đây là slide quan trọng nhất** khi thuyết trình phần giá – chứng minh LaborLink mang lại **ROI rõ ràng** cho doanh nghiệp.
 
-| Tiêu chí | **Không dùng LaborLink** | **Dùng LaborLink** | **Cải thiện** |
-|----------|:---------------------------:|:------------------------:|:--------------:|
-| Chi phí đăng tuyển | 0đ (FB) hoặc 1,5–5 triệu (TopCV) | 0–299.000đ/tháng | **Tiết kiệm 80–100%** |
-| Thời gian sàng lọc | 3–5 ngày (đọc 50+ tin nhắn) | 30 phút (hệ thống đề xuất Top 5) | **Giảm ~90%** |
-| Tỷ lệ tuyển đúng người | ~30–40% | ~75–85% | **Tăng gấp đôi** |
-| Tỷ lệ nghỉ sớm (<2 tuần) | 30–40% | 10–15% | **Giảm 60%** |
-| Rủi ro lừa đảo | Cao (FB không xác minh) | Thấp (Xác minh + Điểm uy tín) | **Giảm ~90%** |
-| **Tổng chi phí tuyển dụng/lần** | **~500K–5 triệu** (tiền + thời gian) | **~50K–150K** | **Tiết kiệm 70–97%** |
+#### Kịch bản: Quán ăn nhỏ cần tuyển 3 nhân viên part-time / tháng
+
+| Tiêu chí | **Facebook / YBOX** (miễn phí) | **ViecLamTot** (trả phí) | **LaborLink Cơ bản** (99K/tháng) | **LaborLink Nâng cao** (299K/tháng) |
+|----------|:------------------------------:|:------------------------:|:---------------------------------:|:-----------------------------------:|
+| Chi phí đăng tuyển | 0đ | 150K/tin × 3 = **450K** | **99K** (10 tin/tháng) | **299K** (không giới hạn) |
+| Thời gian đăng tin | 10–15 phút/bài (tự soạn) | 10 phút/tin | **3 phút** (AI hỗ trợ viết) | **3 phút** (AI hỗ trợ viết) |
+| Thời gian sàng lọc | 3–5 ngày (đọc 50–100+ tin nhắn, tự lọc) | 1–2 ngày (có bộ lọc cơ bản) | **2–4 giờ** (gợi ý Top 20) | **30 phút** (AI Matching tự động) |
+| Tỷ lệ ứng viên phù hợp | ~10–20% (ai cũng nhắn, không sàng lọc) | ~30–40% (lọc theo khu vực) | ~65–75% (gợi ý theo hồ sơ) | ~**80–90%** (AI Matching + đồng bộ lịch) |
+| Tỷ lệ nghỉ sớm (<2 tuần) | 30–40% (không kiểm tra lịch) | 25–35% | 15–20% (đồng bộ lịch) | **10–15%** (AI + lịch + đánh giá) |
+| Xác minh DN / SV | ❌ Không | ⚠️ Cơ bản (SĐT) | ✅ Huy hiệu xác minh | ✅ Huy hiệu xác minh |
+| Đánh giá 2 chiều | ❌ Không | ❌ Không | ✅ Điểm uy tín | ✅ Điểm uy tín chi tiết |
+| Rủi ro lừa đảo | **Cao** (không xác minh) | Trung bình | **Thấp** | **Rất thấp** |
+| **Tổng chi phí tuyển dụng/lần** (tiền + thời gian quy đổi) | **~200K–500K** | **~600K–1,2 triệu** | **~130K–200K** | **~100K–150K** |
+
+> **Phân tích ROI cho DN:** Với gói Nâng cao 299K/tháng, DN tuyển được ~3–5 nhân viên part-time. Mỗi nhân viên tạo ra ~3–5 triệu doanh thu/tháng → **Tổng doanh thu tăng thêm: 9–25 triệu/tháng**. Chi phí tuyển 299K → **ROI = 30–80 lần**. So với ViecLamTot (450K cho 3 tin lẻ tại HCM) → LaborLink rẻ hơn **34%** nhưng chất lượng cao hơn nhờ AI Matching.
+
+---
+
+### Tóm tắt phương thức định giá
+
+> **Tổng hợp các chiến lược định giá được áp dụng cho LaborLink:**
+
+| Phương thức | Cách áp dụng tại LaborLink | Mục đích chiến lược |
+|-------------|----------------------------|---------------------|
+| **Freemium** | Gói Miễn phí (0đ) → Gói Cơ bản (99K) → Gói Nâng cao (299K) | Thu hút user nhanh, tạo thói quen, chuyển đổi dần sang trả phí |
+| **Penetration Pricing** (Thâm nhập thị trường) | Giá 99K–299K/tháng – thấp hơn **70–80%** so với ViecLamTot gói Pro (1.050K) và JobsGO (500K/tin) | Chiếm thị phần nhanh trong phân khúc chưa có đối thủ định giá thấp |
+| **Subscription** (Đăng ký định kỳ) | Thanh toán theo tháng/quý/năm, giảm giá cam kết dài hạn (10–20%) | Tạo **doanh thu lặp lại** (recurring revenue) – ổn định, dự báo được |
+| **Value-Based Pricing** (Định giá theo giá trị) | Gói Nâng cao có AI Matching (tính năng độc quyền, không đối thủ nào có) → Giá 299K phản ánh giá trị vượt trội, không chỉ dựa trên chi phí | DN trả tiền cho **kết quả** (tuyển đúng người, nhanh hơn), không chỉ trả tiền cho dịch vụ đăng tin |
+| **Price Anchoring** (Neo giá) | Hiển thị 3 gói cạnh nhau: Miễn phí → Cơ bản 99K → Nâng cao 299K. Gói Cơ bản đóng vai trò "mỏ neo" khiến gói Nâng cao 299K trông hợp lý (chỉ thêm 200K nhưng nhiều giá trị hơn rất nhiều) | Đẩy DN chọn gói **Nâng cao** – gói có lợi nhuận cao nhất cho LaborLink |
+
+---
+
+### Lộ trình giá theo giai đoạn phát triển
+
+```
+  GIÁ (VNĐ/tháng)
+  │
+  │     499.000 ┤                                          ●── Nâng cao (Giai đoạn 3)
+  │             │                                         ╱
+  │     399.000 ┤                        ●── Nâng cao (GĐ 2)
+  │             │                       ╱
+  │     299.000 ┤ ●── Nâng cao (GĐ 1) ─╯
+  │             │
+  │     149.000 ┤                                          ●── Cơ bản (Giai đoạn 3)
+  │             │                                         ╱
+  │     129.000 ┤                        ●── Cơ bản (GĐ 2)
+  │             │                       ╱
+  │      99.000 ┤ ●── Cơ bản (GĐ 1) ──╯
+  │             │
+  │           0 ┤ ●── Miễn phí (luôn giữ nguyên)
+  └─────────────┴───────────────────────────────────────
+              GĐ 1 (0–12 tháng)  GĐ 2 (12–24)  GĐ 3 (24+)
+              Thâm nhập          Tăng trưởng    Bền vững
+```
+
+| Giai đoạn | Thời gian | Chiến lược giá | Mục tiêu |
+|-----------|-----------|----------------|----------|
+| **GĐ 1: Thâm nhập** | 0–12 tháng | Giữ giá cực thấp (99K/299K). Khuyến mãi 50% cho 1.000 DN đầu tiên. Chương trình giới thiệu: DN giới thiệu DN → Cả 2 được free 1 tháng Cơ bản | Đạt **2.000+ DN** đăng ký, **500+ DN trả phí**. Xây dựng thói quen sử dụng |
+| **GĐ 2: Tăng trưởng** | 12–24 tháng | Tăng giá nhẹ (129K/399K) nhưng bổ sung tính năng mới (báo cáo nâng cao, API liên kết). Giữ gói Free không đổi | Đạt **5.000+ DN**, **2.000+ DN trả phí**. Chứng minh unit economics dương |
+| **GĐ 3: Bền vững** | 24+ tháng | Giá phản ánh đầy đủ giá trị (149K/499K). Thêm gói Enterprise (liên hệ). Doanh thu quảng cáo in-app bắt đầu đóng góp đáng kể | Doanh thu hòa vốn, lợi nhuận dương. Network effect tạo rào cản cạnh tranh |
+
+> **Nguyên tắc:** Giá chỉ tăng khi **(1)** nền tảng đã chứng minh giá trị rõ ràng, **(2)** có đủ user base tạo network effect, và **(3)** có tính năng mới bổ sung xứng đáng với mức giá tăng. **Gói Miễn phí luôn giữ nguyên** để tiếp tục thu hút DN mới.
+
+---
+
+### Dự phóng doanh thu từ Pricing (Năm 1)
+
+| Nguồn doanh thu | Cách tính | Doanh thu/tháng (kỳ vọng) | Doanh thu/năm |
+|-----------------|-----------|:--------------------------:|:--------------:|
+| **Gói Cơ bản** (99K) | 300 DN × 99K | **29,7 triệu** | **356 triệu** |
+| **Gói Nâng cao** (299K) | 150 DN × 299K | **44,9 triệu** | **538 triệu** |
+| **Quảng cáo in-app** | 20 DN × 200K/tháng (ước tính) | **4 triệu** | **48 triệu** |
+| **Đẩy tin nổi bật** (add-on) | 100 lượt × 30K/lượt | **3 triệu** | **36 triệu** |
+| **Tổng cộng** | | **~81,6 triệu/tháng** | **~978 triệu/năm** |
+
+> **Giả định cơ sở:** 2.000 DN đăng ký, tỷ lệ chuyển đổi Free→Paid **22,5%** (300 Cơ bản + 150 Nâng cao = 450/2.000). Con số này thận trọng hơn mục tiêu 35% vì tính cho kịch bản thực tế năm đầu.
 
 ---
 ### Phân tích rủi ro & Giải pháp
 
-| Rủi ro | Giải pháp |
-|--------|-----------|
-| **DN chỉ dùng gói Miễn phí, không nâng cấp** | Thiết kế giới hạn hợp lý (2 tin/tháng) → Khi nhu cầu tăng, tự nâng cấp. Giống cách Spotify giới hạn skip bài hát → User tự trả phí |
-| **Đối thủ lớn (TopCV) giảm giá để cạnh tranh** | Tập trung vào tính năng độc quyền (Đồng bộ lịch, Điểm uy tín 2 chiều) → Cạnh tranh bằng **giá trị**, không chỉ bằng giá cả |
-| **Tỷ lệ chuyển đổi Free→Paid thấp hơn kỳ vọng** | Liên tục thử nghiệm: mức giá khác nhau (79K vs 99K vs 129K), tính năng giới hạn khác nhau; Cải thiện trải nghiệm lần đầu để DN thấy giá trị nhanh hơn |
-| **Doanh thu Năm 1 chưa đủ bù chi phí** | Bù bằng vốn đầu tư ban đầu (seed funding ~500 triệu–1 tỷ). Đẩy tin nổi bật là nguồn thu nhanh, không phụ thuộc subscription |
+| Rủi ro | Mức độ | Giải pháp | KPI theo dõi |
+|--------|:------:|-----------|:------------:|
+| **DN chỉ dùng gói Miễn phí, không nâng cấp** | 🟡 Trung bình | Giới hạn hợp lý (2 tin/tháng, 5 cuộc chat) → Khi nhu cầu tăng, tự nâng cấp. Triển khai **onboarding email drip** (gửi email hướng dẫn + case study thành công sau 3, 7, 14 ngày). Popup nhắc nhở khi DN dùng hết quota | Tỷ lệ Free→Paid > **20%** sau 3 tháng |
+| **ViecLamTot (Chợ Tốt) tung gói giá thấp cạnh tranh trực tiếp** | 🟠 Cao | Tập trung vào tính năng **độc quyền** mà ViecLamTot không có: AI Matching, đồng bộ lịch học, điểm uy tín 2 chiều. Xây dựng **cộng đồng SV trung thành** qua hợp tác trường ĐH → Tạo network effect khó sao chép | Tỷ lệ giữ chân (retention) > **70%**/tháng |
+| **Facebook Groups vẫn là kênh chính, DN không chịu chuyển** | 🟠 Cao | Chiến lược **"dùng Facebook để rời Facebook"**: chạy quảng cáo trên chính Facebook Groups → Dẫn DN về LaborLink. Hợp tác admin các Group lớn. Nhấn mạnh rủi ro lừa đảo + thời gian lãng phí khi dùng FB | Số DN chuyển từ FB → LaborLink/tháng |
+| **Tỷ lệ chuyển đổi Free→Paid thấp hơn kỳ vọng** | 🟡 Trung bình | A/B testing liên tục: thử mức giá khác (79K vs 99K vs 129K), thay đổi tính năng giới hạn, thử trial 7 ngày gói Cơ bản miễn phí. Cải thiện **first-time experience** để DN thấy giá trị trong lần dùng đầu tiên | Tỷ lệ Free→Paid, Time-to-value |
+| **Doanh thu Năm 1 chưa đủ bù chi phí** | 🟡 Trung bình | Bù bằng vốn đầu tư ban đầu (seed funding ~500 triệu–1 tỷ). Đẩy mạnh doanh thu quảng cáo in-app + đẩy tin nổi bật (không phụ thuộc subscription). Kiểm soát chi phí vận hành < 50 triệu/tháng trong năm đầu | Burn rate, runway (tháng) |
+| **SV không đủ để tạo giá trị cho DN** (bài toán con gà – quả trứng) | 🔴 Rất cao | **Giải quyết phía SV trước**: hợp tác 5–10 trường ĐH lớn tại HCM/HN → onboard 5.000+ SV trước khi mời DN. Chạy chiến dịch "Đăng ký nhận việc ngay" trên TikTok, Instagram. Mục tiêu: **có SV sẵn trên app** trước khi DN đăng tin đầu tiên | Số SV active / tuần, tỷ lệ SV/DN |
+| **Rủi ro pháp lý về bảo mật dữ liệu** | 🟡 Trung bình | Tuân thủ Nghị định 13/2023 về bảo vệ dữ liệu cá nhân. Triển khai mã hóa end-to-end cho chat. Có chính sách quyền riêng tư rõ ràng. Thuê tư vấn pháp lý từ giai đoạn phát triển sản phẩm | Số vi phạm = 0, compliance audit đạt |
+
+---
+
+### Ma trận rủi ro (Mức độ ảnh hưởng × Khả năng xảy ra)
+
+```
+  MỨC ĐỘ ẢNH HƯỞNG
+  │
+  Cao │  ④ DN không chuyển    ⑥ Bài toán         
+      │     từ Facebook          con gà–quả trứng  
+      │                                             
+  TB  │  ③ ViecLamTot         ① DN chỉ dùng Free  
+      │     cạnh tranh giá    ⑤ Doanh thu Năm 1   
+      │                       ② Tỷ lệ chuyển đổi  
+  Thấp│                       ⑦ Rủi ro pháp lý    
+      │                                             
+      └──────────────────────────────────────────
+          Thấp              Trung bình          Cao
+                    KHẢ NĂNG XẢY RA
+```
+
+> **Ưu tiên xử lý:** Rủi ro ⑥ (con gà–quả trứng) là quan trọng nhất vì ảnh hưởng đến toàn bộ mô hình kinh doanh → Phải giải quyết **TRƯỚC** khi ra mắt bằng cách onboard SV từ các trường ĐH. Rủi ro ③ và ④ cần theo dõi liên tục sau khi ra mắt.
 
 ---
