@@ -205,7 +205,7 @@
 
 ---
 
-### 8 Dịch vụ gia tăng – Phân tích chiến lược
+### 7 Dịch vụ gia tăng – Phân tích chiến lược
 
 #### Nhóm A: Dành cho Sinh viên – Phát triển bản thân & Tăng gắn kết
 
@@ -220,6 +220,7 @@
 |---|---------|----------|-------------------------------|
 | 1 | **Trang thương hiệu tuyển dụng** | Trang riêng của DN trên LaborLink: logo, mô tả, hình ảnh cửa hàng, đánh giá từ SV đã làm việc | Giống "Company Page" trên LinkedIn nhưng dành cho quán ăn, cửa hàng nhỏ. Giúp DN nhỏ cũng có thể **xây dựng thương hiệu nhà tuyển dụng** → Thu hút SV hơn |
 | 2 | **Gói tuyển dụng hàng loạt** | Gói theo mùa cao điểm (Tết, hè, lễ hội, khai giảng) → Đăng 20+ tin cùng lúc, hệ thống sàng lọc hàng loạt | Giải quyết nhu cầu tuyển **lao động thời vụ** – nhu cầu rất lớn nhưng chưa nền tảng nào phục vụ chuyên biệt |
+| 3 | **Đăng quảng cáo trên ứng dụng** | DN (quán ăn, dịch vụ sửa chữa, cửa hàng tiện lợi...) có thể đăng quảng cáo trực tiếp trên ứng dụng LaborLink → Tiếp cận hàng ngàn sinh viên – nhóm khách hàng tiềm năng lớn | **Nguồn doanh thu bổ sung** không phụ thuộc subscription. Giống mô hình GrabAds → DN nhỏ quảng bá dịch vụ, LaborLink tăng **revenue diversification** |
 
 #### Nhóm C: Cho cả 2 phía – Hệ sinh thái
 
@@ -236,7 +237,7 @@
 |-------------|----------|---------------------|-------------------|
 | **Core Value** (Lớp 1) | Kết nối đúng người – đúng việc – đúng lúc | Giải quyết **nhu cầu cơ bản** | Grab: "Di chuyển thuận tiện" |
 | **Actual Product** (Lớp 2) | Gợi ý thông minh, Đồng bộ lịch, Điểm uy tín, Xác minh DN, Chat, Ứng tuyển nhanh | **Cạnh tranh về tính năng** với đối thủ | Grab: App, bản đồ, thanh toán, đánh giá tài xế |
-| **Augmented Product** (Lớp 3) | Academy, Tích điểm, Bảo hiểm, Thương hiệu tuyển dụng, Hợp tác trường ĐH | **Tạo hệ sinh thái & rào cản gia nhập** – đối thủ không thể sao chép | Grab: GrabPay, GrabRewards, GrabFood, Loyalty |
+| **Augmented Product** (Lớp 3) | Academy, Tích điểm, Bảo hiểm, Thương hiệu tuyển dụng, Quảng cáo trên ứng dụng, Hợp tác trường ĐH | **Tạo hệ sinh thái & rào cản gia nhập** – đối thủ không thể sao chép | Grab: GrabPay, GrabRewards, GrabFood, Loyalty |
 
 > **Bài học kinh doanh:** Tính năng (Lớp 2) có thể copy trong 3–6 tháng. Nhưng hệ sinh thái (Lớp 3) cần **quan hệ đối tác, dữ liệu tích lũy, và niềm tin cộng đồng** – mất ít nhất 1–2 năm để xây dựng. Đây chính là **lợi thế cạnh tranh bền vững (Sustainable Competitive Advantage)** của LaborLink.
 
@@ -350,41 +351,44 @@
 | Đánh giá doanh nghiệp | ✅ Miễn phí |
 | Hồ sơ năng lực tích lũy | ✅ Miễn phí |
 | LaborLink Academy (khóa học) | ✅ Miễn phí |
-| Gợi ý lộ trình nghề nghiệp | ✅ Miễn phí |
 | Chương trình tích điểm | ✅ Miễn phí |
 
 ---
 
-#### Phía Doanh nghiệp / Nhà tuyển dụng: 4 GÓI DỊCH VỤ
+#### Phía Doanh nghiệp / Nhà tuyển dụng: 3 GÓI DỊCH VỤ
 
-| Tính năng | 🆓 **Miễn phí** | ⭐ **Cơ bản** | 💎 **Nâng cao** | 🏢 **Doanh nghiệp** |
-|----------|:-----------:|:----------:|:-------------:|:----------------:|
-| **Giá/tháng** | **0đ** | **99.000đ** | **299.000đ** | **Liên hệ** |
-| | | | | |
-| **ĐĂNG TIN & TÌM KIẾM** | | | | |
-| Đăng tin tuyển dụng | 2 tin/tháng | 10 tin/tháng | **Không giới hạn** | **Không giới hạn** |
-| Xem hồ sơ ứng viên | 10 hồ sơ/tháng | 50 hồ sơ/tháng | **Không giới hạn** | **Không giới hạn** |
-| | | | | |
-| **GỢI Ý THÔNG MINH** | | | | |
-| Gợi ý ứng viên phù hợp | ⚠️ Top 5 | ✅ Top 20 | ✅ Top 20 + Ưu tiên | ✅ Tùy chỉnh |
-| Hỗ trợ viết mô tả tuyển dụng | ❌ | ✅ | ✅ | ✅ |
-| | | | | |
-| **UY TÍN & AN TOÀN** | | | | |
-| Huy hiệu xác minh ✅ | ❌ | ✅ | ✅ | ✅ |
-| Xem điểm uy tín ứng viên | ⚠️ Tổng quát | ✅ Chi tiết | ✅ Chi tiết | ✅ Chi tiết |
-| | | | | |
-| **GIAO TIẾP** | | | | |
-| Chat trong ứng dụng | ✅ (5 cuộc/tháng) | ✅ Không giới hạn | ✅ Không giới hạn | ✅ Không giới hạn |
-| | | | | |
-| **PHÂN TÍCH** | | | | |
-| Bảng thống kê hiệu quả | ❌ | ⚠️ Cơ bản | ✅ Chi tiết | ✅ Báo cáo riêng |
-| | | | | |
-| **HỖ TRỢ** | | | | |
-| Chăm sóc khách hàng | Email (48h) | Chat (24h) | Chat 24/7 + Điện thoại | Nhân viên phụ trách riêng |
-| | | | | |
-| **THƯƠNG HIỆU** | | | | |
-| Trang thương hiệu tuyển dụng | ❌ | ❌ | ✅ | ✅ Tùy chỉnh |
-| Gói tuyển hàng loạt | ❌ | ❌ | ❌ | ✅ |
+| Tính năng | 🆓 **Miễn phí** | ⭐ **Cơ bản** | 💎 **Nâng cao** |
+|----------|:-----------:|:----------:|:-------------:|
+| **Giá/tháng** | **0đ** | **99.000đ** | **299.000đ** |
+| | | | |
+| **ĐĂNG TIN & TÌM KIẾM** | | | |
+| Đăng tin tuyển dụng | 2 tin/tháng | 10 tin/tháng | **Không giới hạn** |
+| Xem hồ sơ ứng viên | 10 hồ sơ/tháng | 50 hồ sơ/tháng | **Không giới hạn** |
+| | | | |
+| **GỢI Ý THÔNG MINH** | | | |
+| Gợi ý ứng viên phù hợp | ⚠️ Top 5 | ✅ Top 20 | ✅ Top 20 + Ưu tiên |
+| Hỗ trợ viết mô tả tuyển dụng | ❌ | ✅ | ✅ |
+| **🤖 AI Matching thông minh** | ❌ | ❌ | ✅ |
+| | | | |
+| **UY TÍN & AN TOÀN** | | | |
+| Huy hiệu xác minh ✅ | ❌ | ✅ | ✅ |
+| Xem điểm uy tín ứng viên | ⚠️ Tổng quát | ✅ Chi tiết | ✅ Chi tiết |
+| | | | |
+| **GIAO TIẾP** | | | |
+| Chat trong ứng dụng | ✅ (5 cuộc/tháng) | ✅ Không giới hạn | ✅ Không giới hạn |
+| | | | |
+| **PHÂN TÍCH** | | | |
+| Bảng thống kê hiệu quả | ❌ | ⚠️ Cơ bản | ✅ Chi tiết + Báo cáo |
+| | | | |
+| **HỖ TRỢ** | | | |
+| Chăm sóc khách hàng | Email (48h) | Chat (24h) | Chat 24/7 + Điện thoại |
+| | | | |
+| **THƯƠNG HIỆU** | | | |
+| Trang thương hiệu tuyển dụng | ❌ | ❌ | ✅ |
+| Gói tuyển hàng loạt | ❌ | ❌ | ✅ |
+| | | | |
+| **DỊCH VỤ GIA TĂNG** | | | |
+| Đăng quảng cáo trên ứng dụng | ❌ | ❌ | ✅ |
 
 #### Ưu đãi cam kết dài hạn (Khuyến khích giữ chân khách hàng)
 
@@ -421,7 +425,7 @@
 
 | Góc nhìn | Phân tích |
 |----------|----------|
-| **Khoảng cách giá trị rõ ràng** | 299K = 3× giá Cơ bản nhưng có: **Không giới hạn tin + Huy hiệu xác minh + Thống kê + Trang thương hiệu** → Giá trị vượt trội rõ ràng |
+| **Khoảng cách giá trị rõ ràng** | 299K = 3× giá Cơ bản nhưng có: **Không giới hạn tin + AI Matching thông minh + Thống kê chi tiết + Trang thương hiệu + Đăng quảng cáo** → Giá trị vượt trội rõ ràng, tạo điểm khác biệt so với 2 gói còn lại |
 | **Đối tượng** | DN tuyển thường xuyên: chuỗi quán ăn, trung tâm gia sư, startup cần 5+ tin/tháng |
 | **Phân tích ROI cho DN** | 1 nhân viên part-time tạo ra ~3–5 triệu doanh thu/tháng cho DN → Chi phí tuyển 299K → **ROI = 10–17 lần** |
 | **Neo giá (Price Anchoring)** | Khi DN nghe TopCV 1,5–8 triệu/tin → Thấy LaborLink 299K/tháng KHÔNG GIỚI HẠN → Cảm nhận "deal quá hời" |
