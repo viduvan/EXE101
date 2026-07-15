@@ -250,67 +250,85 @@
 
 ## 7.4.1. Competitor-Based Pricing Assessment (Đánh giá giá đối thủ)
 
-### Bản đồ giá thị trường tuyển dụng Việt Nam
+### Bản đồ giá thị trường tuyển dụng Việt Nam (Tập trung phân khúc Part-time & Lao động phổ thông)
+
+> **Lưu ý:** Phân tích dưới đây tập trung vào các **đối thủ cạnh tranh trực tiếp** – những nền tảng phục vụ cùng phân khúc part-time, việc làm thêm cho sinh viên, lao động phổ thông. Các nền tảng lớn như VietnamWorks, Glints chủ yếu phục vụ full-time/DN lớn nên **không phải đối thủ trực tiếp** của LaborLink.
 
 ```
   CHI PHÍ CHO DOANH NGHIỆP (VNĐ/tin hoặc /tháng)
   │
-  │  15.000.000 ┤ ●── VietnamWorks (gói cao cấp)
-  │             │         ↑ Dành cho tập đoàn, đa quốc gia
-  │  10.000.000 ┤
+  │   4.200.000 ┤ ●── ViecLamTot (gói Tuyển Gấp 30 ngày)
+  │             │         ↑ Thuộc hệ sinh thái Chợ Tốt
   │             │
-  │   8.000.000 ┤ ●── TopCV (gói nâng cao)
-  │             │         ↑ Dành cho DN lớn, phòng HR chuyên nghiệp
-  │   5.000.000 ┤ ●── Glints (gói cơ bản)
-  │             │         ↑ Startup, DN quy mô trung bình
-  │   3.000.000 ┤ ●── JobsGO (gói cao)
+  │   1.500.000 ┤ ●── ViecLamTot (gói Tuyển Gấp 7 ngày)
   │             │
-  │   1.500.000 ┤ ●── TopCV (gói cơ bản)
+  │   1.050.000 ┤ ●── ViecLamTot (gói Tiết Kiệm – 10 tin/tháng)
+  │             │         ↑ Lao động phổ thông, part-time
   │             │
-  │     500.000 ┤ ●── JobsGO (gói cơ bản)
+  │     500.000 ┤ ●── JobsGO (gói Standard)
+  │             │         ↑ SMEs đa ngành, không chuyên SV
   │             │
-  │             │ ╔═══════════════════════════════════╗
-  │     299.000 ┤ ║ ★ LABORLINK PREMIUM               ║
-  │      99.000 ┤ ║ ★ LABORLINK BASIC                  ║
-  │             │ ║        ↑ KHOẢNG TRỐNG THỊ TRƯỜNG   ║
-  │           0 ┤ ║ ★ LABORLINK FREE ◄── Vị trí định giá ║
-  │             │ ╚═══════════════════════════════════╝
-  └─────────────┴───────────────────────────────────────
+  │     350.000 ┤ ●── ViecLamTot (Tăng Cường 7 ngày)
+  │             │
+  │             │ ╔════════════════════════════════════════╗
+  │     299.000 ┤ ║ ★ LABORLINK NÂNG CAO                  ║
+  │             │ ║   + AI Matching + Không giới hạn tin   ║
+  │     150.000 ┤ ║···●── ViecLamTot (tin lẻ – HCM)       ║
+  │      99.000 ┤ ║ ★ LABORLINK CƠ BẢN                    ║
+  │      50.000 ┤ ║···●── ViecLamTot (tin lẻ – HN)        ║
+  │             │ ║        ↑ VÙNG CẠNH TRANH TRỰC TIẾP    ║
+  │           0 ┤ ║ ★ LABORLINK FREE                       ║
+  │             │ ║···●── Facebook Groups (miễn phí)       ║
+  │             │ ║···●── YBOX (đăng tin miễn phí)         ║
+  │             │ ║···●── ThichLamThem (cộng đồng)         ║
+  │             │ ╚════════════════════════════════════════╝
+  └─────────────┴───────────────────────────────────────────
                MIỄN PHÍ    GIÁ RẺ    TẦM TRUNG    CAO CẤP
 ```
 
-### So sánh chi tiết
+### So sánh chi tiết – Đối thủ cạnh tranh TRỰC TIẾP (cùng phân khúc part-time / SV)
 
-| Nền tảng | Mô hình giá | Mức phí cho DN | Cho SV | Khách hàng chính |
-|----------|-------------|----------------|--------|------------------|
-| **Facebook Groups** | Miễn phí | 0đ | 0đ | Tất cả – nhưng không xác minh, nhiều lừa đảo |
-| **JobsGO** | Trả theo tin | 500.000–3.000.000đ/tin | Miễn phí | SMEs đa ngành |
-| **Glints** | Trả theo tin | 3.000.000–5.000.000đ/tin | Miễn phí | Startup, DN trung bình |
-| **TopCV** | Trả theo tin + Gói | 1.500.000–8.000.000đ/tin | Miễn phí | DN lớn, fresh graduate |
-| **VietnamWorks** | Trả theo tin + Gói | 5.000.000–15.000.000đ/tin | Miễn phí | Tập đoàn lớn, MNC |
+| Nền tảng | Mô hình giá | Mức phí cho DN | Cho SV | Đặc điểm & Hạn chế |
+|----------|-------------|----------------|--------|---------------------|
+| **Facebook Groups** | Miễn phí | 0đ | 0đ | Phổ biến nhất nhưng **không xác minh**, nhiều lừa đảo, thông tin phân tán, không sàng lọc ứng viên |
+| **YBOX** | Miễn phí + PR trả phí | 0đ (tin thường); Gói PR theo báo giá | 0đ | Tập trung giới trẻ, 300–500 tin/ngày → **dễ bị trôi tin**, không có gợi ý thông minh, không xác minh DN |
+| **ThichLamThem** | Liên hệ báo giá | Theo gói (không công khai) | 0đ | Cộng đồng nhỏ, chủ yếu qua Fanpage + Group → **phụ thuộc Facebook**, không có app, không có hệ thống đánh giá |
+| **ViecLamTot** (Chợ Tốt) | Trả theo tin + Gói | 50K–150K/tin lẻ; Gói Tiết Kiệm 1.050K/tháng; Gói Tuyển Gấp 1,5–4,2 triệu | 0đ | Mạnh về lao động phổ thông, có app. Nhưng **không chuyên SV**, không có đồng bộ lịch, không AI matching |
+| **ViecNgay** | Liên hệ báo giá | Tùy chỉnh (không công khai) | 0đ | Tập trung việc gần nhà, lao động phổ thông. **Không focus SV**, không gợi ý thông minh |
+| **JobsGO** | Trả theo tin + GoPoint | Từ 500K/tin (Standard) | 0đ | Hệ thống GoPoint linh hoạt nhưng **giá cao** so với hộ KD nhỏ, không chuyên part-time SV |
+
+### So sánh tham khảo – Đối thủ cạnh tranh GIÁN TIẾP (phân khúc full-time / DN lớn)
+
+| Nền tảng | Mức phí | Tại sao KHÔNG phải đối thủ trực tiếp? |
+|----------|---------|---------------------------------------|
+| **TopCV** | 1,5–8 triệu/tin | Tập trung fresh graduate & full-time; giao diện phức tạp cho hộ KD nhỏ |
+| **Glints** | 3–5 triệu/tin | Dành cho startup & DN trung bình; không focus part-time SV |
+| **VietnamWorks** | 5–15 triệu/tin | Dành cho tập đoàn, MNC; giá quá cao cho quán ăn, cửa hàng nhỏ |
 
 ### Phân tích khoảng trống giá (Price Gap Analysis)
 
 | Phân khúc giá | Ai đang phục vụ? | Khoảng trống | Cơ hội cho LaborLink |
 |---------------|-----------------|-------------|---------------------|
-| **0đ** (Miễn phí) | Facebook, Zalo | Không xác minh, phân tán, lừa đảo | LaborLink Free: **Miễn phí nhưng CÓ xác minh, CÓ gợi ý thông minh** |
-| **50K–300K/tháng** | **KHÔNG CÓ AI** | **KHOẢNG TRỐNG LỚN** |  LaborLink Basic (99K) + Premium (299K) |
-| **500K–3M/tin** | JobsGO | Không focus SV | Cạnh tranh gián tiếp |
-| **3M–15M/tin** | Glints, TopCV, VietnamWorks | Dành cho DN lớn | Không cạnh tranh trực tiếp |
+| **0đ** (Miễn phí) | Facebook Groups, YBOX, ThichLamThem | **Không xác minh**, phân tán, dễ lừa đảo, không có AI gợi ý, tin dễ bị trôi | LaborLink Free: **Miễn phí + Xác minh DN + Gợi ý thông minh** → Vượt trội hoàn toàn |
+| **50K–300K/tháng** | ViecLamTot chỉ bán tin lẻ (50–150K/tin), **không có gói subscription tháng** | **KHOẢNG TRỐNG LỚN** – Chưa có nền tảng nào cung cấp **gói thuê bao tháng giá rẻ** chuyên part-time SV | LaborLink Cơ bản (99K) + Nâng cao (299K): **Gói tháng trọn gói, nhiều tin, có AI Matching** |
+| **500K–1 triệu/tin** | ViecLamTot (gói Pro), JobsGO (Standard) | Giá cao cho hộ KD nhỏ; không chuyên SV part-time | Cạnh tranh gián tiếp – LaborLink rẻ hơn **70–80%** |
+| **1–4 triệu/tin** | ViecLamTot (Tuyển Gấp), TopCV | Dành cho DN tuyển gấp, số lượng lớn | Không cạnh tranh trực tiếp |
 
-> **Phát hiện quan trọng:** Khoảng giá **50.000–300.000đ/tháng** hiện **hoàn toàn trống** – không có bất kỳ nền tảng nào phục vụ. Đây chính là **sweet spot** (điểm giá lý tưởng) để LaborLink thâm nhập.
+> **Phát hiện quan trọng:** Trong phân khúc part-time sinh viên, các đối thủ trực tiếp chỉ có 2 nhóm: **(1) Miễn phí nhưng kém chất lượng** (Facebook, YBOX, ThichLamThem) và **(2) Trả phí nhưng không chuyên SV** (ViecLamTot, JobsGO). **Không có nền tảng nào** vừa chuyên biệt cho SV part-time, vừa có gợi ý thông minh (AI Matching), vừa giá rẻ dưới 300K/tháng. Đây chính là **blue ocean** (đại dương xanh) mà LaborLink khai thác.
+
 ### Câu hỏi kinh doanh mấu chốt:
 
 > *"Tại sao hộ kinh doanh nhỏ KHÔNG dùng nền tảng tuyển dụng hiện tại?"*
 
 | Lý do | Phân tích |
 |-------|----------|
-| **Giá quá cao** | Quán cafe doanh thu 30–50 triệu/tháng → Không thể trả 3–5 triệu để đăng 1 tin tuyển dụng |
-| **Sai đối tượng** | TopCV, VietnamWorks thu hút người tìm việc full-time, có kinh nghiệm → Không phải SV part-time |
-| **Quá phức tạp** | Giao diện dành cho phòng HR chuyên nghiệp, không dành cho chủ quán tự tuyển |
-| **Không thấy hiệu quả** | Trả tiền nhưng ứng viên vẫn không phù hợp → Quay lại đăng Facebook miễn phí |
+| **Giá quá cao hoặc không rõ ràng** | Quán cafe doanh thu 30–50 triệu/tháng → ViecLamTot gói Pro 1 triệu/tháng, JobsGO 500K/tin → Chi phí lớn so với lợi nhuận nhỏ |
+| **Không chuyên part-time SV** | ViecLamTot, JobsGO tập trung lao động phổ thông nói chung → SV không phải đối tượng chính, không có tính năng đồng bộ lịch học |
+| **Miễn phí thì kém chất lượng** | Facebook Groups, YBOX: miễn phí nhưng tin bị trôi nhanh, không xác minh, không sàng lọc → DN nhận hàng trăm tin nhắn nhưng chỉ 5–10% phù hợp |
+| **Thiếu tính năng thông minh** | Không nền tảng nào có AI Matching, gợi ý ứng viên theo điểm tương thích, hay đồng bộ lịch → Tốn thời gian sàng lọc thủ công |
+| **Không có hệ sinh thái đánh giá** | Facebook, YBOX không có hệ thống đánh giá 2 chiều → DN không biết SV có đáng tin không, SV không biết DN có lừa đảo không |
 
-→ **Hệ quả:** Hộ kinh doanh nhỏ bị "kẹt" giữa 2 lựa chọn: Facebook (miễn phí nhưng kém chất lượng) hoặc TopCV/VietnamWorks (chất lượng nhưng quá đắt). **LaborLink tạo ra lựa chọn thứ 3: Chất lượng + Giá rẻ.**
+→ **Hệ quả:** Hộ kinh doanh nhỏ bị "kẹt" giữa 2 lựa chọn tệ: Facebook/YBOX (miễn phí nhưng kém chất lượng, nhiều rủi ro) hoặc ViecLamTot/JobsGO (trả phí nhưng không chuyên SV, thiếu tính năng thông minh). **LaborLink tạo ra lựa chọn thứ 3: Chuyên biệt SV part-time + AI Matching + Giá rẻ + An toàn.**
 
 ---
 ## 7.4.2. Proposed Pricing & Strategy (Đề xuất giá & Chiến lược định giá)
